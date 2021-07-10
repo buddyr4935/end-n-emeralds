@@ -616,6 +616,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "acid"
+    },
+    {
+      "name": "Randomtext",
+      "type": "overlay",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "randomtext"
     }
   ],
   "variable_elements": [],
