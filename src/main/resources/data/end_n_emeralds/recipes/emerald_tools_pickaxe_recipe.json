@@ -1,0 +1,30 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "end_n_emeralds:emerald_tools_pickaxe",
+    "count": 1
+  }
+}

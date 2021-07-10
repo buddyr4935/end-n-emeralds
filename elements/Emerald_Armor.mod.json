@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "emerald__head",
+    "enableBody": true,
+    "textureBody": "emerald__body",
+    "enableLeggings": true,
+    "textureLeggings": "emerald__leggings",
+    "enableBoots": true,
+    "textureBoots": "emerald__boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "emerald_",
+    "helmetName": "Emerald_ Helmet",
+    "bodyName": "Emerald_ Chestplate",
+    "leggingsName": "Emerald_ Leggings",
+    "bootsName": "Emerald_ Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 120,
+    "damageValueHelmet": 16,
+    "damageValueBody": 40,
+    "damageValueLeggings": 48,
+    "damageValueBoots": 16,
+    "enchantability": 72,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ]
+  }
+}

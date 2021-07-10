@@ -625,6 +625,147 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "randomtext"
+    },
+    {
+      "name": "Emerald_ToolsPickaxe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_pickaxe"
+    },
+    {
+      "name": "Emerald_ToolsAxe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_axe"
+    },
+    {
+      "name": "Emerald_ToolsSword",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_sword"
+    },
+    {
+      "name": "Emerald_ToolsShovel",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_shovel"
+    },
+    {
+      "name": "Emerald_ToolsHoe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_hoe"
+    },
+    {
+      "name": "Emerald_ToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_pickaxe_recipe"
+    },
+    {
+      "name": "Emerald_ToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_axe_recipe"
+    },
+    {
+      "name": "Emerald_ToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_sword_recipe"
+    },
+    {
+      "name": "Emerald_ToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_shovel_recipe"
+    },
+    {
+      "name": "Emerald_ToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_tools_hoe_recipe"
+    },
+    {
+      "name": "Emerald_Armor",
+      "type": "armor",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Emerald_ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_helmet_recipe"
+    },
+    {
+      "name": "Emerald_ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_body_recipe"
+    },
+    {
+      "name": "Emerald_ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_leggings_recipe"
+    },
+    {
+      "name": "Emerald_ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -636,6 +777,7 @@
       "key.end_n_emeralds.pooping": "Pooping",
       "item.minecraft.lingering_potion.effect.mega_potion": "Lingering Mega Potion",
       "item.end_n_emeralds.chocolate": "Chocolate",
+      "item.end_n_emeralds.emerald_tools_pickaxe": "Emerald_Tools Pickaxe",
       "block.end_n_emeralds.pinkstone": "Pinkstone",
       "block.end_n_emeralds.poopblock": "Poopblock",
       "item.end_n_emeralds.unkownthing": "???",
@@ -643,25 +785,33 @@
       "block.end_n_emeralds.poopleaves": "Poopleaves",
       "fluid.pinkgoo": "Pinkgoo",
       "item.end_n_emeralds.poopwater_bucket": "Poopwater Bucket",
+      "item.end_n_emeralds.emerald_armor_chestplate": "Emerald_ Chestplate",
       "itemGroup.tabpink_items": "Pink Items",
       "fluid.poopwater": "Poopwater",
       "item.minecraft.potion.effect.mega_potion": "Mega Potion",
       "item.end_n_emeralds.pinkgoo_bucket": "Pinkgoo Bucket",
       "block.end_n_emeralds.poopwood": "Poopwood",
+      "item.end_n_emeralds.emerald_tools_hoe": "Emerald_Tools Hoe",
       "item.end_n_emeralds.endberries": "Endberries",
       "item.end_n_emeralds.acid_bucket": "Acid Bucket",
       "block.end_n_emeralds.pinkflower": "pink flower",
+      "item.end_n_emeralds.emerald_armor_helmet": "Emerald_ Helmet",
       "item.end_n_emeralds.poopdimension": "poop lighter",
       "biome.end_n_emeralds.eviebiome": "Eviebiome",
       "item.end_n_emeralds.poop": "Poop",
       "itemGroup.tabpoopitems": "Poop stuffs",
       "item.end_n_emeralds.endsword": "End Sword",
+      "item.end_n_emeralds.emerald_tools_axe": "Emerald_Tools Axe",
+      "item.end_n_emeralds.emerald_armor_boots": "Emerald_ Boots",
       "key.end_n_emeralds.hiddenkeybind": "Hiddenkeybind",
       "effect.mega_potion": "Mega Potion",
+      "item.end_n_emeralds.emerald_armor_leggings": "Emerald_ Leggings",
       "fluid.acid": "Acid",
       "advancements.enterpoopdimesion.title": "Poop dimesion",
       "item.minecraft.splash_potion.effect.mega_potion": "Splash Mega Potion",
+      "item.end_n_emeralds.emerald_tools_sword": "Emerald_Tools Sword",
       "item.minecraft.tipped_arrow.effect.mega_potion": "Arrow of Mega Potion",
+      "item.end_n_emeralds.emerald_tools_shovel": "Emerald_Tools Shovel",
       "advancements.enterpoopdimesion.descr": "SUPER STINKY!!!"
     }
   },

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.EMERALD"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Emerald_Armor.boots"
+    },
+    "name": "emerald_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}
