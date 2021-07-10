@@ -590,6 +590,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "enterpoopdimesion"
+    },
+    {
+      "name": "AcidMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acid_mobplayer_collides_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Acid",
+      "type": "fluid",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acid"
     }
   ],
   "variable_elements": [],
@@ -614,6 +640,7 @@
       "item.end_n_emeralds.pinkgoo_bucket": "Pinkgoo Bucket",
       "block.end_n_emeralds.poopwood": "Poopwood",
       "item.end_n_emeralds.endberries": "Endberries",
+      "item.end_n_emeralds.acid_bucket": "Acid Bucket",
       "block.end_n_emeralds.pinkflower": "pink flower",
       "item.end_n_emeralds.poopdimension": "poop lighter",
       "biome.end_n_emeralds.eviebiome": "Eviebiome",
@@ -622,6 +649,7 @@
       "item.end_n_emeralds.endsword": "End Sword",
       "key.end_n_emeralds.hiddenkeybind": "Hiddenkeybind",
       "effect.mega_potion": "Mega Potion",
+      "fluid.acid": "Acid",
       "advancements.enterpoopdimesion.title": "Poop dimesion",
       "item.minecraft.splash_potion.effect.mega_potion": "Splash Mega Potion",
       "item.minecraft.tipped_arrow.effect.mega_potion": "Arrow of Mega Potion",
