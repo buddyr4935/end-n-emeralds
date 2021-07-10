@@ -25,6 +25,8 @@
   "item.end_n_emeralds.endsword": "End Sword",
   "key.end_n_emeralds.hiddenkeybind": "Hiddenkeybind",
   "effect.mega_potion": "Mega Potion",
+  "advancements.enterpoopdimesion.title": "Poop dimesion",
   "item.minecraft.splash_potion.effect.mega_potion": "Splash Mega Potion",
-  "item.minecraft.tipped_arrow.effect.mega_potion": "Arrow of Mega Potion"
+  "item.minecraft.tipped_arrow.effect.mega_potion": "Arrow of Mega Potion",
+  "advancements.enterpoopdimesion.descr": "SUPER STINKY!!!"
 }

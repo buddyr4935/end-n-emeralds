@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "end_n_emeralds:poopblock"
+    },
+    "title": {
+      "translate": "advancements.enterpoopdimesion.title"
+    },
+    "description": {
+      "translate": "advancements.enterpoopdimesion.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enterpoopdimesion": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "end_n_emeralds:poopdimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 6
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Poop dimesion",
+    "achievementDescription": "SUPER STINKY!!!",
+    "achievementIcon": {
+      "value": "CUSTOM:Poopblock"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 6,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"dimension_entered\" x=\"30\" y=\"106\"><field name=\"dimension\">CUSTOM:Poopdimension</field><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}
