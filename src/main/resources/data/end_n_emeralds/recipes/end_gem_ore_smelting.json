@@ -1,0 +1,12 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:smelting",
+  "experience": 7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "end_n_emeralds:end_gem_ore"
+  },
+  "result": {
+    "item": "end_n_emeralds:end_gem"
+  }
+}

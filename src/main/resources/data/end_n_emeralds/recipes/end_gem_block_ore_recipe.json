@@ -1,0 +1,13 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "end_n_emeralds:end_gem_block"
+    }
+  ],
+  "result": {
+    "item": "end_n_emeralds:end_gem",
+    "count": 9
+  }
+}
