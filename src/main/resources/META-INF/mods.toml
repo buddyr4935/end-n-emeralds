@@ -8,7 +8,10 @@ version="1.0.0"
 displayName="end n' emeralds"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="user, MCreator"
+authors="buddyr4935"
+description='''
+a mod that adds lots of end and emerald
+'''
 
 [[dependencies.end_n_emeralds]]
     modId="minecraft"

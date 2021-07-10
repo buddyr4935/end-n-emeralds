@@ -1,0 +1,36 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "end_n_emeralds:end_gem"
+    },
+    "1": {
+      "item": "end_n_emeralds:end_gem"
+    },
+    "2": {
+      "item": "end_n_emeralds:end_gem"
+    },
+    "3": {
+      "item": "end_n_emeralds:end_gem"
+    },
+    "5": {
+      "item": "end_n_emeralds:end_gem"
+    },
+    "6": {
+      "item": "end_n_emeralds:end_gem"
+    },
+    "8": {
+      "item": "end_n_emeralds:end_gem"
+    }
+  },
+  "result": {
+    "item": "end_n_emeralds:end_gem_armor_leggings",
+    "count": 1
+  }
+}
