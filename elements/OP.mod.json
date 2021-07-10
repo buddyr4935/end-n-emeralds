@@ -1,0 +1,9 @@
+{
+  "_fv": 18,
+  "_type": "function",
+  "definition": {
+    "code": "/give @p diamond_sword{Encantments:[{id:sharpness,lvl:999}],display:{Name:'[{\"text\":\"OP sword\",\"italic\":false,\"color\":\"dark_purple\"}]'}}\n/give @p diamond_pickaxe{display:{Name:'[{\"text\":\"OP pickaxe\",\"italic\":false,\"color\":\"dark_purple\"}]'},Enchantments:[{id:efficiency,lvl:999},{id:fortune,lvl:20}]}\n/give @p poop\n/give @p diamond_shovel{display:{Name:'[{\"text\":\"STRHXFDGXBV\",\"italic\":false,\"obfuscated\":true}]'},Enchantments:[{id:efficiency,lvl:1000}]}\n/tellraw @p \"function: \\\"op\\\" was ran succsfully\"",
+    "name": "op",
+    "namespace": "mod"
+  }
+}

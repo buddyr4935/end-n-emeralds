@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "end_n_emeralds:blocks/pink_stone",
+    "up": "end_n_emeralds:blocks/pink_stone",
+    "north": "end_n_emeralds:blocks/pink_stone",
+    "east": "end_n_emeralds:blocks/pink_stone",
+    "south": "end_n_emeralds:blocks/pink_stone",
+    "west": "end_n_emeralds:blocks/pink_stone",
+    "particle": "end_n_emeralds:blocks/pink_stone"
+  }
+}

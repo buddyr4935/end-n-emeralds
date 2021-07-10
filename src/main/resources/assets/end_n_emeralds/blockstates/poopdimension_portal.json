@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "end_n_emeralds:block/poopdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "end_n_emeralds:block/poopdimension_portal_ns"
+    }
+  }
+}

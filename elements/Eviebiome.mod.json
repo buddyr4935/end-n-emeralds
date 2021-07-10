@@ -1,0 +1,121 @@
+{
+  "_fv": 18,
+  "_type": "biome",
+  "definition": {
+    "name": "Eviebiome",
+    "groundBlock": {
+      "value": "CUSTOM:Pinkgrass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Pinkstone"
+    },
+    "airColor": {
+      "value": -13057,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -3407668,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -13057,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -26113,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "record.cat"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "PORTAL"
+    },
+    "particlesProbability": 1.0,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "biomeType": "WARM",
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 20,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Big trees",
+    "treeType": 1,
+    "minHeight": 7,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "Blocks.PURPUR_PILLAR"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES#0"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": "Blocks.SWEET_BERRY_BUSH"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "plains",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": true,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityFireworkRocket"
+        },
+        "minGroup": 10,
+        "maxGroup": 10,
+        "weight": 20,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityCat"
+        },
+        "minGroup": 15,
+        "maxGroup": 20,
+        "weight": 20,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

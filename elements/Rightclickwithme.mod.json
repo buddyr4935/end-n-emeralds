@@ -1,0 +1,41 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "yeet",
+    "customModelName": "Normal",
+    "name": "§k yeet",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "RIGHT CLICK ME NOW!!!!!!!!"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "RightclickwithmeRightClickedInAir"
+    },
+    "onRightClickedOnBlock": {
+      "name": "RightclickwithmeRightClickedInAir"
+    }
+  }
+}

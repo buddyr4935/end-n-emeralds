@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "chocolate",
+    "customModelName": "Normal",
+    "name": "Chocolate",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "yummmmmy yummmmmmmy yummmmmmmmmmmy so so yummmmmmmmmmmmy"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 10,
+    "saturation": 1.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": "Items.DEBUG_STICK"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onDroppedByPlayer": {
+      "name": "DarkchocolateItemIsDroppedByPlayer"
+    }
+  }
+}

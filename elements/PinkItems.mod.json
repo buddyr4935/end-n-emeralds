@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Pink Items",
+    "icon": {
+      "value": "CUSTOM:Pinkgrass"
+    },
+    "showSearch": false
+  }
+}

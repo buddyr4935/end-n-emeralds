@@ -1,0 +1,643 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Pinkgrass",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pinkgrass"
+    },
+    {
+      "name": "Pinkstone",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pinkstone"
+    },
+    {
+      "name": "Eviebiome",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eviebiome"
+    },
+    {
+      "name": "HiddenkeybindOnKeyReleased",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hiddenkeybind_on_key_released",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hiddenkeybind",
+      "type": "keybind",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hiddenkeybind"
+    },
+    {
+      "name": "Pinkgoo",
+      "type": "fluid",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pinkgoo"
+    },
+    {
+      "name": "PinkItems",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_items"
+    },
+    {
+      "name": "Pinkpainting",
+      "type": "painting",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pinkpainting"
+    },
+    {
+      "name": "MegaPotionPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mega_potion_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MegaPotionPotionExpires",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mega_potion_potion_expires",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MegaPotion",
+      "type": "potion",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mega_potion"
+    },
+    {
+      "name": "Darkchocolate",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate"
+    },
+    {
+      "name": "DarkchocolateItemIsDroppedByPlayer",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkchocolate_item_is_dropped_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Unkownthing",
+      "type": "gun",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unkownthing"
+    },
+    {
+      "name": "Endtree",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pinkflower"
+    },
+    {
+      "name": "EndtreePlantRightClicked",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtree_plant_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RightclickwithmeRightClickedInAir",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rightclickwithme_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rightclickwithme",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rightclickwithme"
+    },
+    {
+      "name": "DaddyCommandExecuted",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "daddy_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Daddy",
+      "type": "command",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "daddy"
+    },
+    {
+      "name": "Endberries",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endberries"
+    },
+    {
+      "name": "Endsword",
+      "type": "gun",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsword"
+    },
+    {
+      "name": "RenameCommandExecuted",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rename_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "cmdparams",
+            "type": "map"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rename",
+      "type": "command",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rename"
+    },
+    {
+      "name": "Chocolaterecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolaterecipe"
+    },
+    {
+      "name": "RCWMRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rcwm_recipe"
+    },
+    {
+      "name": "OP",
+      "type": "function",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "op"
+    },
+    {
+      "name": "Poopwater",
+      "type": "fluid",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopwater"
+    },
+    {
+      "name": "Poopblock",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopblock"
+    },
+    {
+      "name": "Poop",
+      "type": "food",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poop"
+    },
+    {
+      "name": "Poopitems",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopitems"
+    },
+    {
+      "name": "Poopblockrecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopblockrecipe"
+    },
+    {
+      "name": "Poopwood",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopwood"
+    },
+    {
+      "name": "PoopFoodEaten",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poop_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Poopleaves",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopleaves"
+    },
+    {
+      "name": "Poopbiome",
+      "type": "biome",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopbiome"
+    },
+    {
+      "name": "Poopdimension",
+      "type": "dimension",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopdimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "PoopingOnKeyPressed",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pooping_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pooping",
+      "type": "keybind",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pooping"
+    },
+    {
+      "name": "Poopportalpartical",
+      "type": "particle",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poopportalpartical"
+    },
+    {
+      "name": "OpcommandCommandExecuted",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opcommand_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Opcommand",
+      "type": "command",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opcommand"
+    },
+    {
+      "name": "Pooop",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pooop"
+    },
+    {
+      "name": "BigchoiseGUI",
+      "type": "gui",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bigchoise_gui"
+    },
+    {
+      "name": "BigchoisecommandCommandExecuted",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bigchoisecommand_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bigchoisecommand",
+      "type": "command",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bigchoisecommand"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.end_n_emeralds.poopbiome": "Poopbiome",
+      "block.end_n_emeralds.pinkgrass": "Pinkgrass",
+      "key.end_n_emeralds.pooping": "Pooping",
+      "item.minecraft.lingering_potion.effect.mega_potion": "Lingering Mega Potion",
+      "item.end_n_emeralds.chocolate": "Chocolate",
+      "block.end_n_emeralds.pinkstone": "Pinkstone",
+      "block.end_n_emeralds.poopblock": "Poopblock",
+      "item.end_n_emeralds.unkownthing": "???",
+      "item.end_n_emeralds.rightclickwithme": "§k yeet",
+      "block.end_n_emeralds.poopleaves": "Poopleaves",
+      "fluid.pinkgoo": "Pinkgoo",
+      "item.end_n_emeralds.poopwater_bucket": "Poopwater Bucket",
+      "itemGroup.tabpink_items": "Pink Items",
+      "fluid.poopwater": "Poopwater",
+      "item.minecraft.potion.effect.mega_potion": "Mega Potion",
+      "item.end_n_emeralds.pinkgoo_bucket": "Pinkgoo Bucket",
+      "block.end_n_emeralds.poopwood": "Poopwood",
+      "item.end_n_emeralds.endberries": "Endberries",
+      "block.end_n_emeralds.pinkflower": "pink flower",
+      "item.end_n_emeralds.poopdimension": "poop lighter",
+      "biome.end_n_emeralds.eviebiome": "Eviebiome",
+      "item.end_n_emeralds.poop": "Poop",
+      "itemGroup.tabpoopitems": "Poop stuffs",
+      "item.end_n_emeralds.endsword": "End Sword",
+      "key.end_n_emeralds.hiddenkeybind": "Hiddenkeybind",
+      "effect.mega_potion": "Mega Potion",
+      "item.minecraft.splash_potion.effect.mega_potion": "Splash Mega Potion",
+      "item.minecraft.tipped_arrow.effect.mega_potion": "Arrow of Mega Potion"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "end_n_emeralds",
+    "modName": "end n\u0027 emeralds",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.endnemeralds",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

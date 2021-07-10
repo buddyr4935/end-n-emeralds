@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "endberries",
+    "customModelName": "Normal",
+    "name": "Endberries",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 7,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": "Items.POISONOUS_POTATO"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": true
+  }
+}

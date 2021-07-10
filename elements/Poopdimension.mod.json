@@ -1,0 +1,42 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Poopbiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Poopblock"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Poopwater"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "DENY",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Poopblock"
+    },
+    "portalParticles": {
+      "value": "CUSTOM:Poopportalpartical"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "poop lighter",
+    "igniterTab": {
+      "value": "CUSTOM:Poopitems"
+    },
+    "texture": "poop_lighter",
+    "portalTexture": "poop_portal",
+    "enablePortal": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "end_n_emeralds:blocks/poop_block",
+    "up": "end_n_emeralds:blocks/poop_block",
+    "north": "end_n_emeralds:blocks/poop_block",
+    "east": "end_n_emeralds:blocks/poop_block",
+    "south": "end_n_emeralds:blocks/poop_block",
+    "west": "end_n_emeralds:blocks/poop_block",
+    "particle": "end_n_emeralds:blocks/poop_block"
+  }
+}

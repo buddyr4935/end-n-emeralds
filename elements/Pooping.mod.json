@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "LSHIFT",
+    "keyBindingName": "Pooping",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "PoopingOnKeyPressed"
+    }
+  }
+}

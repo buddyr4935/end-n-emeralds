@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "Pinkgoo",
+    "textureStill": "pink_stone",
+    "textureFlowing": "pink_stone",
+    "luminosity": 10,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:PinkItems"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Eviebiome"
+      }
+    ]
+  }
+}

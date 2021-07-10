@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "poop",
+    "customModelName": "Normal",
+    "name": "Poop",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "STINKY POOP!!!"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": -5,
+    "saturation": 0.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "PoopFoodEaten"
+    }
+  }
+}

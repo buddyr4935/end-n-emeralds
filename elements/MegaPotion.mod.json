@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Mega Potion",
+    "effectName": "Mega Potion",
+    "icon": "megapotion.png",
+    "color": {
+      "value": -52429,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "MegaPotionPotionStartedapplied"
+    },
+    "onExpired": {
+      "name": "MegaPotionPotionExpires"
+    }
+  }
+}

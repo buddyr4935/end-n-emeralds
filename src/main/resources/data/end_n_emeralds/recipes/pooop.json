@@ -1,0 +1,13 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "end_n_emeralds:poopblock"
+    }
+  ],
+  "result": {
+    "item": "end_n_emeralds:poop",
+    "count": 9
+  }
+}

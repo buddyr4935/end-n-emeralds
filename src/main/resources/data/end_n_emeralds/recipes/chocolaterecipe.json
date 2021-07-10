@@ -1,0 +1,19 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "result": {
+    "item": "end_n_emeralds:chocolate",
+    "count": 1
+  }
+}

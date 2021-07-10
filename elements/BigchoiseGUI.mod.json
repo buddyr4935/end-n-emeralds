@@ -1,0 +1,105 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "DIE",
+          "width": 40,
+          "height": 20,
+          "name": "DIE",
+          "x": 145,
+          "y": 64
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "BIG CHOISE",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "BIG CHOISE",
+          "x": 185,
+          "y": 43
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "HIDE",
+          "width": 45,
+          "height": 20,
+          "name": "HIDE",
+          "x": 187,
+          "y": 64
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "CLOSE",
+          "width": 50,
+          "height": 20,
+          "name": "CLOSE",
+          "x": 184,
+          "y": 170
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "POOP",
+          "width": 45,
+          "height": 20,
+          "name": "POOP",
+          "x": 234,
+          "y": 64
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "14829",
+          "width": 50,
+          "height": 20,
+          "name": "14829",
+          "x": 139,
+          "y": 87
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "OOF",
+          "width": 40,
+          "height": 20,
+          "name": "OOF",
+          "x": 191,
+          "y": 87
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "5436563",
+          "width": 60,
+          "height": 20,
+          "name": "5436563",
+          "x": 233,
+          "y": 87
+        }
+      }
+    ]
+  }
+}

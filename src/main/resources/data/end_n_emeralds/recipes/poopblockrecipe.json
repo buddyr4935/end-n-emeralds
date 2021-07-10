@@ -1,0 +1,42 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "end_n_emeralds:poop"
+    },
+    "1": {
+      "item": "end_n_emeralds:poop"
+    },
+    "2": {
+      "item": "end_n_emeralds:poop"
+    },
+    "3": {
+      "item": "end_n_emeralds:poop"
+    },
+    "4": {
+      "item": "end_n_emeralds:poop"
+    },
+    "5": {
+      "item": "end_n_emeralds:poop"
+    },
+    "6": {
+      "item": "end_n_emeralds:poop"
+    },
+    "7": {
+      "item": "end_n_emeralds:poop"
+    },
+    "8": {
+      "item": "end_n_emeralds:poop"
+    }
+  },
+  "result": {
+    "item": "end_n_emeralds:poopblock",
+    "count": 1
+  }
+}

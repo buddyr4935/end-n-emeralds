@@ -1,0 +1,33 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_bars"
+    },
+    "3": {
+      "item": "minecraft:iron_bars"
+    },
+    "5": {
+      "item": "minecraft:iron_bars"
+    },
+    "6": {
+      "item": "minecraft:iron_bars"
+    },
+    "7": {
+      "item": "minecraft:iron_bars"
+    },
+    "8": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "end_n_emeralds:rightclickwithme",
+    "count": 1
+  }
+}

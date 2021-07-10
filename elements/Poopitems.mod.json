@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Poop stuffs",
+    "icon": {
+      "value": "CUSTOM:Poop"
+    },
+    "showSearch": false
+  }
+}
