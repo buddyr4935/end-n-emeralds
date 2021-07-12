@@ -1,0 +1,26 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "2": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "3": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "5": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    }
+  },
+  "result": {
+    "item": "end_n_emeralds:amethyst_armor_boots",
+    "count": 1
+  }
+}
