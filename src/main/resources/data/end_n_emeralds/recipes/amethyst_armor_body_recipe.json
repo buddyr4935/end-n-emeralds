@@ -1,0 +1,39 @@
+{
+  "group": "end_n_emeralds",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "2": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "3": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "4": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "5": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "6": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "7": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    },
+    "8": {
+      "item": "end_n_emeralds:amethyst_ingot"
+    }
+  },
+  "result": {
+    "item": "end_n_emeralds:amethyst_armor_chestplate",
+    "count": 1
+  }
+}
