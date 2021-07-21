@@ -45,6 +45,8 @@ public class EndNEmeraldsModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public EndNEmeraldsModElements() {
+		sounds.put(new ResourceLocation("end_n_emeralds", "smile-slynk"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("end_n_emeralds", "smile-slynk")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("end_n_emeralds").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

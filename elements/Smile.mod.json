@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "smile",
+    "name": "Smile - slynk",
+    "description": "Smile by slynk",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:smile-slynk"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

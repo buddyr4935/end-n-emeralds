@@ -1156,10 +1156,28 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "amethyst_armor_boots_recipe"
+    },
+    {
+      "name": "Smile",
+      "type": "musicdisc",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smile"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "smile-slynk",
+      "files": [
+        "smile-slynk"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
   "language_map": {
     "en_us": {
       "biome.end_n_emeralds.poopbiome": "Poopbiome",
@@ -1190,7 +1208,9 @@
       "item.end_n_emeralds.emerald_tools_axe": "Emerald_Tools Axe",
       "item.end_n_emeralds.emerald_armor_boots": "Emerald_ Boots",
       "key.end_n_emeralds.hiddenkeybind": "Hiddenkeybind",
+      "item.end_n_emeralds.smile.desc": "Smile by slynk",
       "effect.mega_potion": "Mega Potion",
+      "subtitles.smile-slynk": "",
       "item.end_n_emeralds.emerald_armor_leggings": "Emerald_ Leggings",
       "item.end_n_emeralds.end_gem_armor_leggings": "End_gem Leggings",
       "fluid.acid": "Acid",
@@ -1225,6 +1245,7 @@
       "item.minecraft.splash_potion.effect.mega_potion": "Splash Mega Potion",
       "item.end_n_emeralds.emerald_tools_sword": "Emerald_Tools Sword",
       "item.end_n_emeralds.end_gem_sword": "End_gem Sword",
+      "item.end_n_emeralds.smile": "Smile - slynk",
       "item.minecraft.tipped_arrow.effect.mega_potion": "Arrow of Mega Potion",
       "item.end_n_emeralds.amethyst_axe": "Amethyst Axe"
     }

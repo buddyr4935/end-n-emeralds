@@ -1,1 +1,11 @@
-{}
+{
+  "smile-slynk": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "end_n_emeralds:smile-slynk",
+        "stream": true
+      }
+    ]
+  }
+}
