@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "end_n_emeralds:items/endsword"
+    "layer0": "end_n_emeralds:items/end_sword"
   },
   "display": {
     "thirdperson_righthand": {

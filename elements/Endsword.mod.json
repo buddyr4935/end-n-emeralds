@@ -3,7 +3,7 @@
   "_type": "gun",
   "definition": {
     "renderType": 0,
-    "texture": "endsword",
+    "texture": "end_sword",
     "customModelName": "Normal",
     "name": "End Sword",
     "specialInfo": [],
@@ -19,8 +19,8 @@
     "actionSound": {
       "value": "entity.firework.launch"
     },
-    "hasGlow": false,
-    "animation": "none",
+    "hasGlow": true,
+    "animation": "block",
     "enableMeleeDamage": true,
     "damageVsEntity": 10.0,
     "bulletPower": 3.0,

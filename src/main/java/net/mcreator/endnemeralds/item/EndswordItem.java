@@ -74,12 +74,18 @@ public class EndswordItem extends EndNEmeraldsModElements.ModElement {
 
 		@Override
 		public UseAction getUseAction(ItemStack itemstack) {
-			return UseAction.NONE;
+			return UseAction.BLOCK;
 		}
 
 		@Override
 		public int getUseDuration(ItemStack itemstack) {
 			return 72000;
+		}
+
+		@Override
+		@OnlyIn(Dist.CLIENT)
+		public boolean hasEffect(ItemStack itemstack) {
+			return true;
 		}
 
 		@Override
